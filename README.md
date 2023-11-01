@@ -1,2 +1,2 @@
 # Data-Structure-Experiment
-Some homework I did in my data structure courses
+Some computer-aided test I did in my data structure courses
